@@ -1,6 +1,6 @@
 [submodule "asap7_sram_0p0"]
 	path = asap7_sram_0p0
-	url = rafaelnmo/asap7_sram_0p0
+	url = https://github.com/rafaelnmo/asap7_sram_0p0
 [submodule "asap7sc6t_26"]
 	path = asap7sc6t_26
 	url = ../../asap7sc6t_26
