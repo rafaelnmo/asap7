@@ -3,13 +3,13 @@
 	url = https://github.com/rafaelnmo/asap7_sram_0p0
 [submodule "asap7sc6t_26"]
 	path = asap7sc6t_26
-	url = ../../asap7sc6t_26
+	url = https://github.com/rafaelnmo/asap7sc6t_26
 [submodule "asap7sc7p5t_27"]
 	path = asap7sc7p5t_27
-	url = ../../asap7sc7p5t_27
+	url = https://github.com/rafaelnmo/asap7sc7p5t_27
 [submodule "asap7sc7p5t_28"]
 	path = asap7sc7p5t_28
-	url = ../../asap7sc7p5t_28
+	url = https://github.com/rafaelnmo/asap7sc7p5t_28
 [submodule "asap7_pdk_r1p7"]
 	path = asap7_pdk_r1p7
-	url = ../../asap7_pdk_r1p7
+	url = https://github.com/rafaelnmo/asap7_pdk_r1p7
